@@ -1,0 +1,28 @@
+public enum Tokens{
+    MODE,
+    MACRO,
+    DEBUG,
+    LITERAL,
+    NEWLINE,
+    STRING,
+    LEFT_PAREN,
+    RIGHT_PAREN,
+    WSPACE,
+    RIGHT_BRACE,
+    LEFT_BRACE,
+    SEMICOLON,
+    RIGHT_BRAC,
+    LEFT_BRAC,
+    BYTE,
+    SHORT,
+    INT,
+    LONG,
+    FLOAT,
+    DOUBLE,
+    BOOLEAN,
+    CHAR,
+    VOID,
+    STR,
+    STATIC
+
+}
